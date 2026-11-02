@@ -22,19 +22,42 @@
 
 ## 项目与作品
 
-| 项目 | 简介 | 访问 |
-| --- | --- | --- |
-| **落地页设计与迭代 Skill** | 从需求对齐、参考分析到页面制作与验证的 Codex Skill，并附实际页面案例。 | [Skill 介绍](https://a357960406-tech.github.io/skills/landing-page-iteration/) · [项目仓库](https://github.com/a357960406-tech/a357960406-tech.github.io) |
-| **Unsplash Inspiration 页面案例** | 图片探索主题的网页案例，包含素材筛选、滚动与交互效果。 | [查看案例](https://a357960406-tech.github.io/design-v1/) · [源代码](https://github.com/a357960406-tech/a357960406-tech.github.io/tree/main/design-v1) |
-| **豆包产品体验报告** | 围绕情感陪伴场景，记录体验、产品拆解、分析与验证边界。 | [阅读报告](https://a357960406-tech.github.io/doubao-product-reports/) · [项目仓库](https://github.com/a357960406-tech/doubao-product-reports) |
-| **个人网站** | 我的个人介绍、关注方向与联系入口。 | [访问网站](https://a357960406-tech.github.io/personal-website/) · [项目仓库](https://github.com/a357960406-tech/personal-website) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>落地页设计与迭代 Skill</h3>
+      <p>从需求对齐、参考分析到页面制作与验证的 Codex Skill，并附实际页面案例。</p>
+      <p><a href="https://a357960406-tech.github.io/skills/landing-page-iteration/">Skill 介绍 ↗</a> · <a href="https://github.com/a357960406-tech/a357960406-tech.github.io">项目仓库 ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Unsplash Inspiration 页面案例</h3>
+      <p>图片探索主题的网页案例，包含素材筛选、滚动与交互效果。</p>
+      <p><a href="https://a357960406-tech.github.io/design-v1/">查看案例 ↗</a> · <a href="https://github.com/a357960406-tech/a357960406-tech.github.io/tree/main/design-v1">源代码 ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>豆包产品体验报告</h3>
+      <p>围绕情感陪伴场景，记录体验、产品拆解、分析与验证边界。</p>
+      <p><a href="https://a357960406-tech.github.io/doubao-product-reports/">阅读报告 ↗</a> · <a href="https://github.com/a357960406-tech/doubao-product-reports">项目仓库 ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>个人网站</h3>
+      <p>我的个人介绍、产品思考、项目和文章入口。</p>
+      <p><a href="https://a357960406-tech.github.io/personal-website/">访问网站 ↗</a> · <a href="https://github.com/a357960406-tech/personal-website">项目仓库 ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 [查看所有公开仓库 →](https://github.com/a357960406-tech?tab=repositories)
 
 ## 文章与报告
 
-- **[大肥鱼挤满B站后，评论区里还有多少真人](https://mp.weixin.qq.com/s/OmZfqDMx3sjImtXQdfT-2Q)** — 微信公众号「青青的AI手记」
-- **[豆包情感陪伴产品拆解](https://a357960406-tech.github.io/doubao-product-reports/)** — 从具体场景出发的产品体验与分析
+- **[大肥鱼挤满B站后，评论区里还有多少真人](https://mp.weixin.qq.com/s/OmZfqDMx3sjImtXQdfT-2Q)** — 2026-11-02 · 公众号文章
+- **[Google发布Gemini 4 Carbon，为什么越强的AI越不急着开放？](https://mp.weixin.qq.com/s/w3ViBgXUcipgrcbTgtwWVw)** — 2026-10-29 · 公众号文章
+- **[Uber的三万人AI实验，工作真的会更轻松吗](https://mp.weixin.qq.com/s/M4d2GHdTeWj50i0SN3x4Tg)** — 2026-10-27 · 公众号文章
+- **[一家公司全员都用AI，最后会不会只剩下搬运工？](https://mp.weixin.qq.com/s/mxVOajXmeovMqfRSo1Owug)** — 2026-10-25 · 公众号文章
+- **[豆包情感陪伴产品拆解](https://a357960406-tech.github.io/doubao-product-reports/)** — 产品体验与分析报告
 
 ---
 
