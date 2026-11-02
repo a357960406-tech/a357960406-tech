@@ -14,7 +14,20 @@
 
 ## 关于我
 
-我是马青清，一名 AI 产品经理。我关注 AI 产品如何回应真实需求，也会记录产品体验、整理研究报告，探索 AI 工具与网页制作。
+I moved from embedded software engineering into AI product management.<br>
+我从嵌入式软件工程转行到人工智能产品管理。
+
+I build AI products.<br>
+我开发人工智能产品。
+
+I also create tools and reusable skills that turn complex technical context into clearer product decisions.<br>
+我还创建了工具和可重用的技能，将复杂的技术背景转化为更清晰的产品决策。
+
+Engineering is not the destination for me.<br>
+工程学不是我的最终目标。
+
+It is the lens I use to understand systems and make better product choices.<br>
+这是我用来理解系统和做出更好产品选择的视角。
 
 ## 关注与实践
 
