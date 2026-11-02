@@ -6,7 +6,7 @@
 
 把对产品的观察、体验与想法，逐渐变成可以阅读、使用和继续迭代的作品。
 
-[个人网站](https://a357960406-tech.github.io/personal-website/) · [全部公开仓库](https://github.com/a357960406-tech?tab=repositories) · [微信公众号文章](https://a357960406-tech.github.io/personal-website/assets/wechat-qr.jpg)
+[个人网站](https://a357960406-tech.github.io/personal-website/) · [全部公开仓库](https://github.com/a357960406-tech?tab=repositories) · [微信公众号](https://a357960406-tech.github.io/personal-website/assets/wechat-qr.jpg)
 
 </div>
 
